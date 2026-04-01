@@ -50,4 +50,3 @@ gym-website/
 ## 👤 Author
 Your Name — BTech CSE 1st Year
 GitHub: @Abhi02605
-```
