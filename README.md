@@ -38,7 +38,7 @@ open index.html
 gym-website/
 ├── index.html      ← entire website
 └── README.md       ← this file
-```
+
 
 ## 🎯 What I Learned
 - CSS animations and keyframes
@@ -50,12 +50,4 @@ gym-website/
 ## 👤 Author
 Abhishek Baghel — BTech ECE 1st Year
 GitHub: @Abhi02605
-```
-
----
-
-
-
-
-
-
+'''
